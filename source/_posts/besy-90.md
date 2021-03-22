@@ -2,6 +2,7 @@
 title: Прошло ..00 лет
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
 tags: books
+data: 1902/12/22
 cover_index: "https://picsum.photos/450/450?random=23"
 ---
 
