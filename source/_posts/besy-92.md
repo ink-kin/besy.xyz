@@ -1,7 +1,9 @@
 ---
 title: дьявол блуда
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
-tags: books
+tags:
+- books
+- дьявол блуда
 data: 1902/12/20
 cover_index: "https://picsum.photos/450/450?random=21"
 ---

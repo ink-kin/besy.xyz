@@ -2,7 +2,9 @@
 title: как скоро учение о жизни ложно, то 
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
 data: 1902/12/01
-tags: books
+tags:
+- books
+- 
 cover_index: "https://picsum.photos/450/450?random=2"
 ---
 

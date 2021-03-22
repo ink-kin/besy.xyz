@@ -1,7 +1,9 @@
 ---
 title: Дьявол исправления
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
-tags: books
+tags:
+- books
+- Дьявол исправления
 data: 1902/12/07
 cover_index: "https://picsum.photos/450/450?random=8"
 ---

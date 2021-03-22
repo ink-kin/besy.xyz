@@ -1,7 +1,9 @@
 ---
 title: Дьявол воспитания
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
-tags: books
+tags:
+- books
+- Дьявол воспитания
 data: 1902/12/08
 cover_index: "https://picsum.photos/450/450?random=9"
 ---

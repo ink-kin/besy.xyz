@@ -1,7 +1,9 @@
 ---
 title: дьявол войны
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
-tags: books
+tags:
+- books
+- дьявол войны
 data: 1902/12/17
 cover_index: "https://picsum.photos/450/450?random=18"
 ---

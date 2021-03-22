@@ -1,7 +1,9 @@
 ---
 title: Дьявол социализма
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
-tags: books
+tags:
+- books
+- Дьявол социализма
 data: 1902/12/04
 cover_index: "https://picsum.photos/450/450?random=5"
 ---

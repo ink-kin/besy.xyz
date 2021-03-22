@@ -1,7 +1,9 @@
 ---
 title: Дьявол культуры
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
-tags: books
+tags:
+- books
+- Дьявол культуры
 data: 1902/12/09
 cover_index: "https://picsum.photos/450/450?random=10"
 ---

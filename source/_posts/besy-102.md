@@ -1,7 +1,9 @@
 ---
 title: Дьявол медицины
 subtitle: Лев Николаевич Толстой, Легенда, Разрушение ада и восстановление его
-tags: books
+tags:
+- books
+- Дьявол медицины
 data: 1902/12/10
 cover_index: "https://picsum.photos/450/450?random=11"
 ---
